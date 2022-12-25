@@ -1,6 +1,6 @@
 # anilshivajipatil
 # Here is What I'm Working On!
-# I'm currently working on.....JP Morgan as Security Architect-Threat Modelling
+# I'm currently working on.....Emagine Consulting Limited UK
 # I'm currently learning.....Data Privacy
 # I'm looking to collaborate on .....Threat Modelling/Data Privacy
 # I'm looking for help with.....Penetration Testing
